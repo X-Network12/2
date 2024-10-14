@@ -72,8 +72,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("DNS_NETWORK")
-                await self.two.join_chat("Dns_Official_Channel")
+                await self.two.join_chat("somueditingzone")
+                await self.two.join_chat("somueditingzone")
             except:
                 pass
             assistants.append(2)
