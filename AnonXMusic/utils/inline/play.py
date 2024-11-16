@@ -76,10 +76,10 @@ def stream_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 📢", url=f"https://t.me/somueditingzone"
+                text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 📢", url=fhttps://t.me/NAX_X_NeTWoRK"
             ),
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/somueditingzone"
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/NAX_CHATROOM"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
